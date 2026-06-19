@@ -336,7 +336,7 @@
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
-            "targetVariableName": "color/white",
+            "targetVariableName": "color/white/DEFAULT",
             "targetVariableSetName": "primitives/color"
           }
         }
@@ -678,7 +678,7 @@
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
-            "targetVariableName": "color/white",
+            "targetVariableName": "color/white/DEFAULT",
             "targetVariableSetName": "primitives/color"
           }
         }
@@ -940,7 +940,7 @@
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
-            "targetVariableName": "color/white",
+            "targetVariableName": "color/white/DEFAULT",
             "targetVariableSetName": "primitives/color"
           }
         }
@@ -966,7 +966,7 @@
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
-            "targetVariableName": "color/white",
+            "targetVariableName": "color/white/DEFAULT",
             "targetVariableSetName": "primitives/color"
           }
         }
@@ -1834,7 +1834,7 @@
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
-            "targetVariableName": "color/white",
+            "targetVariableName": "color/white/DEFAULT",
             "targetVariableSetName": "primitives/color"
           }
         }
@@ -2038,7 +2038,7 @@
           "com.figma.modeName": "dark",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
-            "targetVariableName": "color/white",
+            "targetVariableName": "color/white/DEFAULT",
             "targetVariableSetName": "primitives/color"
           }
         }
