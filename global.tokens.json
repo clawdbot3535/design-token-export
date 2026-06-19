@@ -10123,7 +10123,7 @@
     },
     "font-size": {
       "$type": "number",
-      "$value": 8,
+      "$value": 10,
       "$extensions": {
         "com.figma.variableId": "VariableID:3730:4767",
         "com.figma.scopes": [
@@ -10133,7 +10133,7 @@
         "com.figma.modeName": "components/global",
         "com.figma.resolvedType": "FLOAT",
         "com.figma.aliasData": {
-          "targetVariableName": "font-size/text-2xs",
+          "targetVariableName": "font-size/text-xs",
           "targetVariableSetName": "primitives/typography"
         }
       }
