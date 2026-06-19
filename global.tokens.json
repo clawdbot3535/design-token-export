@@ -7195,7 +7195,7 @@
           }
         }
       },
-      "line-heigth": {
+      "line-height": {
         "$type": "number",
         "$value": 40,
         "$extensions": {
@@ -7654,32 +7654,6 @@
         "com.figma.resolvedType": "COLOR",
         "com.figma.aliasData": {
           "targetVariableName": "color/bg/muted",
-          "targetVariableSetName": "semantic/theme"
-        }
-      }
-    },
-    "bg-active": {
-      "$type": "color",
-      "$value": {
-        "colorSpace": "srgb",
-        "components": [
-          0.32156863808631897,
-          0.32156863808631897,
-          0.35686275362968445
-        ],
-        "alpha": 1,
-        "hex": "#52525B"
-      },
-      "$extensions": {
-        "com.figma.variableId": "VariableID:3547:19401",
-        "com.figma.scopes": [
-          "ALL_SCOPES"
-        ],
-        "com.figma.collectionName": "components/global",
-        "com.figma.modeName": "dark",
-        "com.figma.resolvedType": "COLOR",
-        "com.figma.aliasData": {
-          "targetVariableName": "color/bg/emphasis",
           "targetVariableSetName": "semantic/theme"
         }
       }
