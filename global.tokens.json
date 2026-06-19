@@ -10189,72 +10189,20 @@
         }
       }
     },
-    "close-icon": {
-      "$type": "color",
-      "$value": {
-        "colorSpace": "srgb",
-        "components": [
-          0.6313725709915161,
-          0.6313725709915161,
-          0.6666666865348816
-        ],
-        "alpha": 1,
-        "hex": "#A1A1AA"
-      },
+    "close-button-size": {
+      "$type": "number",
+      "$value": 10,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3730:4769",
+        "com.figma.variableId": "VariableID:3739:3634",
         "com.figma.scopes": [
           "ALL_SCOPES"
         ],
         "com.figma.collectionName": "components/global",
         "com.figma.modeName": "components/global",
-        "com.figma.resolvedType": "COLOR",
-        "com.figma.aliasData": {
-          "targetVariableName": "color/text/muted",
-          "targetVariableSetName": "semantic/theme"
-        }
-      }
-    },
-    "close-icon-size": {
-      "$type": "number",
-      "$value": 10,
-      "$extensions": {
-        "com.figma.variableId": "VariableID:3945:2056",
-        "com.figma.scopes": [
-          "ALL_SCOPES"
-        ],
-        "com.figma.collectionName": "components/custom",
-        "com.figma.modeName": "Mode 1",
         "com.figma.resolvedType": "FLOAT",
         "com.figma.aliasData": {
           "targetVariableName": "spacing/2,5",
           "targetVariableSetName": "primitives/dimension"
-        }
-      }
-    },
-    "close-icon-hover": {
-      "$type": "color",
-      "$value": {
-        "colorSpace": "srgb",
-        "components": [
-          0.32156863808631897,
-          0.32156863808631897,
-          0.35686275362968445
-        ],
-        "alpha": 1,
-        "hex": "#52525B"
-      },
-      "$extensions": {
-        "com.figma.variableId": "VariableID:3730:4770",
-        "com.figma.scopes": [
-          "ALL_SCOPES"
-        ],
-        "com.figma.collectionName": "components/global",
-        "com.figma.modeName": "components/global",
-        "com.figma.resolvedType": "COLOR",
-        "com.figma.aliasData": {
-          "targetVariableName": "color/text/secondary",
-          "targetVariableSetName": "semantic/theme"
         }
       }
     },
@@ -10307,6 +10255,23 @@
         "com.figma.aliasData": {
           "targetVariableName": "color/text/muted",
           "targetVariableSetName": "semantic/theme"
+        }
+      }
+    },
+    "close-icon-size": {
+      "$type": "number",
+      "$value": 10,
+      "$extensions": {
+        "com.figma.variableId": "VariableID:3945:2056",
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
+        "com.figma.collectionName": "components/custom",
+        "com.figma.modeName": "Mode 1",
+        "com.figma.resolvedType": "FLOAT",
+        "com.figma.aliasData": {
+          "targetVariableName": "spacing/2,5",
+          "targetVariableSetName": "primitives/dimension"
         }
       }
     },
