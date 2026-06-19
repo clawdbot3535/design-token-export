@@ -4024,26 +4024,9 @@
     },
     "font-size-sm": {
       "$type": "number",
-      "$value": 8,
-      "$extensions": {
-        "com.figma.variableId": "VariableID:3740:3773",
-        "com.figma.scopes": [
-          "ALL_SCOPES"
-        ],
-        "com.figma.collectionName": "components/global",
-        "com.figma.modeName": "components/global",
-        "com.figma.resolvedType": "FLOAT",
-        "com.figma.aliasData": {
-          "targetVariableName": "font-size/text-2xs",
-          "targetVariableSetName": "primitives/typography"
-        }
-      }
-    },
-    "font-size-md": {
-      "$type": "number",
       "$value": 10,
       "$extensions": {
-        "com.figma.variableId": "VariableID:3740:3776",
+        "com.figma.variableId": "VariableID:3740:3773",
         "com.figma.scopes": [
           "ALL_SCOPES"
         ],
@@ -4056,9 +4039,26 @@
         }
       }
     },
+    "font-size-md": {
+      "$type": "number",
+      "$value": 12,
+      "$extensions": {
+        "com.figma.variableId": "VariableID:3740:3776",
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
+        "com.figma.collectionName": "components/global",
+        "com.figma.modeName": "components/global",
+        "com.figma.resolvedType": "FLOAT",
+        "com.figma.aliasData": {
+          "targetVariableName": "font-size/text-sm",
+          "targetVariableSetName": "primitives/typography"
+        }
+      }
+    },
     "line-height-sm": {
       "$type": "number",
-      "$value": 8,
+      "$value": 10,
       "$extensions": {
         "com.figma.variableId": "VariableID:3740:3774",
         "com.figma.scopes": [
@@ -4068,14 +4068,14 @@
         "com.figma.modeName": "components/global",
         "com.figma.resolvedType": "FLOAT",
         "com.figma.aliasData": {
-          "targetVariableName": "line-height/2xs",
+          "targetVariableName": "line-height/xs",
           "targetVariableSetName": "primitives/typography"
         }
       }
     },
     "line-height-md": {
       "$type": "number",
-      "$value": 10,
+      "$value": 12,
       "$extensions": {
         "com.figma.variableId": "VariableID:3740:3777",
         "com.figma.scopes": [
@@ -4085,7 +4085,7 @@
         "com.figma.modeName": "components/global",
         "com.figma.resolvedType": "FLOAT",
         "com.figma.aliasData": {
-          "targetVariableName": "line-height/xs",
+          "targetVariableName": "line-height/sm",
           "targetVariableSetName": "primitives/typography"
         }
       }
