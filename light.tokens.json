@@ -1396,12 +1396,12 @@
         "$value": {
           "colorSpace": "srgb",
           "components": [
-            0.05882352963089943,
-            0.05882352963089943,
-            0.05882352963089943
+            0,
+            0,
+            0
           ],
           "alpha": 0,
-          "hex": "#0F0F0F"
+          "hex": "#000000"
         },
         "$extensions": {
           "com.figma.variableId": "VariableID:3759:1900",
@@ -1434,7 +1434,7 @@
           "com.figma.modeName": "light",
           "com.figma.resolvedType": "COLOR",
           "com.figma.aliasData": {
-            "targetVariableName": "color/white/alpha/500-8",
+            "targetVariableName": "color/white/alpha/white-8",
             "targetVariableSetName": "primitives/color"
           }
         }
