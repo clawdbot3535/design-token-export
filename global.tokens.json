@@ -369,6 +369,32 @@
           }
         }
       },
+      "text-hover": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.0941176488995552,
+            0.0941176488995552,
+            0.10588235408067703
+          ],
+          "alpha": 1,
+          "hex": "#18181B"
+        },
+        "$extensions": {
+          "com.figma.variableId": "VariableID:4000:1466",
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.collectionName": "components/global",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
+          "com.figma.aliasData": {
+            "targetVariableName": "color/text/inverted",
+            "targetVariableSetName": "semantic/theme"
+          }
+        }
+      },
       "text-disabled": {
         "$type": "color",
         "$value": {
@@ -567,6 +593,32 @@
         },
         "$extensions": {
           "com.figma.variableId": "VariableID:2:162",
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
+          "com.figma.collectionName": "components/global",
+          "com.figma.modeName": "dark",
+          "com.figma.resolvedType": "COLOR",
+          "com.figma.aliasData": {
+            "targetVariableName": "color/action/text-subtle",
+            "targetVariableSetName": "semantic/theme"
+          }
+        }
+      },
+      "text-hover": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.43529412150382996,
+            0.5098039507865906,
+            0.7607843279838562
+          ],
+          "alpha": 1,
+          "hex": "#6F82C2"
+        },
+        "$extensions": {
+          "com.figma.variableId": "VariableID:4000:1465",
           "com.figma.scopes": [
             "ALL_SCOPES"
           ],
